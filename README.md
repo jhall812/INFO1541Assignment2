@@ -32,7 +32,7 @@ Create the branch titled:  YOURNAME-JUnitTesting (where YOURNAME should be repla
 We now need to test each of our three employees to make sure they are coded and work correctly. Make sure each method you create has a super specific name to what you are testing.
 
 ### Hourly Employee
-Create a new java file inside the **test->java** folder called **HourlyEmployeeTest.java**
+Create a new java file inside the **test->java** folder called **EmployeeObjects.HourlyEmployeeTest.java**
 
 Use the following code to set up a fake employee to then test with:
 >     HourlyEmployee emp = new HourlyEmployee("Tony", "Stark", 5749, "Service", "Lead Service Manager", 32.85);
